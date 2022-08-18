@@ -1,0 +1,1 @@
+const words = ['SantaCruz','Chubut','TierraDelFuego','RioNegro','SantiagoDelEstero','LaPampa','SantaFe','Cordoba','Neuquen','Mendoza','SanLuis','SanJuan','LaRioja','Tucuman','Salta','Jujuy','Chaco','Formosa','Misiones','Corrientes','EntreRios','BuenosAires','Catamarca'];
